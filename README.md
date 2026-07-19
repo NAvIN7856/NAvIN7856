@@ -134,9 +134,7 @@ Status      : Building.
 # `navin@github:~$ snake`
 
 <p align="center">
-
-![Snake animation](https://github.com/NAvIN7856/NAvIN7856/blob/output/github-contribution-grid-snake-dark.svg)
-
+  <img src="https://raw.githubusercontent.com/NAvIN7856/NAvIN7856/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -149,6 +147,6 @@ $ echo "Thanks for visiting."
 Happy Coding 🚀
 
 $ logout
+```
 
 </div>
-````
