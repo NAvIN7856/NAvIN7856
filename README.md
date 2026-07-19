@@ -78,9 +78,6 @@ Loading next challenge...
 # `navin@github:~$ git stats`
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NAvIN7856&show_icons=true&theme=chartreuse-dark&hide_border=true&rank_icon=github"/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=NAvIN7856&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
