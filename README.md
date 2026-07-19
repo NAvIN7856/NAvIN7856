@@ -134,12 +134,6 @@ Status      : Building.
 
 <h3>Thanks for visiting 👋</h3>
 
-<pre>
-$ echo "Thanks for visiting."
-
-Happy Coding 🚀
-
-$ logout
-</pre>
+<p>Happy Coding 🚀</p>
 
 </div>
