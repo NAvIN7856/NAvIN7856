@@ -82,14 +82,6 @@ Loading next challenge...
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img width="430" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAvIN7856&layout=compact&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
-
 ---
 
 # `navin@github:~$ connect`
