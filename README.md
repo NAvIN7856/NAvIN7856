@@ -1,7 +1,9 @@
 <div align="center">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Navin Kumar Singh
+<img src="https://media.tenor.com/7kM8J4W2xQAAAAAC/raccoon-spin.gif" width="120" alt="Spinning Raccoon"/>
 
+<br><br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Software+Engineer;Java+•+JavaScript+•+TypeScript+•+Python;Building+Scalable+Applications;Always+Learning..." />
 
 <img src="https://komarev.com/ghpvc/?username=NAvIN7856&label=PROFILE+VIEWS&color=00ff41&style=flat-square"/>
