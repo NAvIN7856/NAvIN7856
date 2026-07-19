@@ -129,6 +129,15 @@ Languages   : Java
 Status      : Building.
 ██████████████████████████████
 ```
+---
+
+# `navin@github:~$ contribution-graph`
+
+<div align="center">
+
+[![Navin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NAvIN7856&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF)](https://github.com/NAvIN7856)
+
+</div>
 
 ---
 
