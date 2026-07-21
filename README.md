@@ -94,19 +94,40 @@ YOLO + Flask + React + OpenCV + Interactive Maps.
 
 </details>
 
-# 📊 GitHub Analytics
+# 📊 GitHub Dashboard
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NAvIN7856&show_icons=true&theme=github_dark&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAvIN7856&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
+<div align="center">
 
-<p align="center">
+<table>
+<tr>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NAvIN7856&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github"/>
+
+</td>
+
+<td width="50%">
+
 <img src="https://streak-stats.demolab.com?user=NAvIN7856&theme=github-dark-blue&hide_border=true"/>
-</p>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NAvIN7856&theme=github-compact&hide_border=true)](https://github.com/NAvIN7856)
+</td>
 
+</tr>
+
+<tr>
+
+<td colspan="2">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=NAvIN7856&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF"/>
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
 # 🐍 Contribution Snake
 
 <p align="center">
