@@ -1,62 +1,208 @@
+````md
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Navin Kumar Singh
+# Hi 👋 I'm Navin Kumar Singh
+
+### Full Stack Developer • Software Engineer
+
 <img src="./assets/spinning-raccoon.gif" width="120" alt="Spinning Raccoon"/>
-<br><br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=00FF41&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Software+Engineer;Java+•+JavaScript+•+TypeScript+•+Python;Building+Scalable+Applications;Always+Learning..." />
 
-<img src="https://komarev.com/ghpvc/?username=NAvIN7856&label=PROFILE+VIEWS&color=00ff41&style=flat-square"/>
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&duration=3500&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Software+Engineer;Java+•+Spring+Boot+•+React;TypeScript+•+Node.js+•+Python;Building+Scalable+Applications;Always+Learning+New+Technologies" />
+
+<br/>
+
+<a href="https://github.com/NAvIN7856">
+<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/navin7856">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=NAvIN7856&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# `navin@github:~$ whoami`
+# 👨‍💻 About Me
 
-```bash
-$ whoami
+```yaml
+Name: Navin Kumar Singh
 
-Name      : Navin Kumar Singh
-Role      : Full Stack Developer
-            Software Engineer
+Role:
+  - Full Stack Developer
+  - Software Engineer
 
-Mission   : Build scalable applications
-             Learn continuously
-             Write clean code
+Education:
+  SRM Institute of Science and Technology
 
-Status    : Online 🟢
+Currently Learning:
+  - System Design
+  - Cloud Computing
+  - Scalable Backend Architecture
+  - DevOps
+
+Interests:
+  - Web Development
+  - Artificial Intelligence
+  - Open Source
+  - UI/UX
+  - Software Architecture
+
+Languages:
+  - Java
+  - JavaScript
+  - TypeScript
+  - Python
+
+Status:
+  Always building.
 ```
 
 ---
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/framer" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/framer" alt="framer" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nextjs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nextjs" alt="nextjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/reactnative" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="reactnative" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/unreal" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="40" height="40"/> </a></p>
-# `navin@github:~$ tree skills`
 
-```text
-skills
-│
-├── Languages
-│   ├── Java
-│   ├── JavaScript
-│   ├── TypeScript
-│   └── Python
-│
-└── Mindset
-    ├── Problem Solving
-    ├── Clean Architecture
-    ├── Scalability
-    └── Continuous Learning
-```
+# 📁 Tech Stack
+
+## 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python"/>
+</p>
+
+---
+
+## 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,html,css"/>
+</p>
+
+---
+
+## ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask,django"/>
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,redis"/>
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,figma"/>
+</p>
+
+---
+
+## 🚀 Currently Exploring
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,aws"/>
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+## 🏠 Roomsy
+
+> Modern real-time communication platform
+
+### Features
+
+- 💬 Real-time Chat
+- 🎥 Video Calls
+- 🔊 Spatial Audio
+- 🌍 Interactive Rooms
+- ⚡ Socket.IO
+- 📹 Mediasoup
+- 🎨 React + Tailwind
+
+---
+
+## 🌍 Garbage Detection System
+
+AI-powered garbage detection using YOLO.
+
+### Tech
+
+- YOLO
+- Flask
+- OpenCV
+- React
+- MapTiler
+
+---
+
+## 🎬 MovieVerse
+
+Movie social platform inspired by Letterboxd, Reddit and IMDb.
+
+### Features
+
+- Movie Reviews
+- Community Posts
+- Trending Movies
+- Responsive UI
+- Modern Design
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,ts,python"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NAvIN7856&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAvIN7856&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# `navin@github:~$ cat learning.log`
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=NAvIN7856&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+[![Navin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NAvIN7856&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)](https://github.com/NAvIN7856)
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/NAvIN7856/NAvIN7856/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 📚 Learning Journey
 
 ```text
 ✔ Full Stack Development
@@ -65,27 +211,33 @@ skills
 
 ✔ System Design
 
-✔ Software Engineering
+✔ Software Architecture
 
-✔ Modern Web Technologies
+✔ REST APIs
 
-✔ Building Better Products
+✔ Modern Frontend
+
+✔ Cloud Computing
+
+✔ DevOps
 
 Loading next challenge...
 ```
 
 ---
 
-# `navin@github:~$ git stats`
+# 🎯 Goals for 2026
 
-<div align="center">
-<img height="170" src="https://streak-stats.demolab.com?user=NAvIN7856&theme=chartreuse-dark&hide_border=true"/>
-
-</div>
+- 🚀 Build impactful open-source projects
+- ☁ Learn AWS & Cloud Architecture
+- 📚 Master System Design
+- 💻 Solve 500+ DSA problems
+- 🤝 Contribute to open source
+- ⚡ Build scalable production-grade applications
 
 ---
 
-# `navin@github:~$ connect`
+# 📫 Connect With Me
 
 <div align="center">
 
@@ -101,47 +253,13 @@ Loading next challenge...
 
 ---
 
-# `navin@github:~$ neofetch`
-
-```text
-██████████████████████████████
-
-User        : Navin Kumar Singh
-Platform    : GitHub
-Editor      : VS Code
-Shell       : Markdown
-
-Languages   : Java
-              JavaScript
-              TypeScript
-              Python
-
-Status      : Building.
-██████████████████████████████
-```
----
-
-# `navin@github:~$ contribution-graph`
-
 <div align="center">
 
-[![Navin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NAvIN7856&theme=github-compact&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF)](https://github.com/NAvIN7856)
+### Thanks for visiting! 👋
+
+*"Code. Learn. Build. Repeat."*
+
+⭐ If you like my work, consider following me.
 
 </div>
-
----
-
-# `navin@github:~$ snake`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NAvIN7856/NAvIN7856/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
----
-<div align="center">
-
-<h3>Thanks for visiting 👋</h3>
-
-<p>Happy Coding 🚀</p>
-
-</div>
+````
