@@ -1,263 +1,143 @@
+# (truncated example)
 <div align="center">
 
-# Hi 👋 I'm Navin Kumar Singh
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:1F6FEB&text=Navin%20Kumar%20Singh&fontColor=FFFFFF&fontSize=42&animation=fadeIn"/>
+
+# 👋 Hi, I'm Navin Kumar Singh
 
 ### Full Stack Developer • Software Engineer
 
-<img src="./assets/spinning-raccoon.gif" width="120" alt="Spinning Raccoon"/>
+<img src="./assets/spinning-raccoon.gif" width="120"/>
 
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;Java+•+Spring+Boot+•+React;TypeScript+•+Node.js+•+Python;Open+Source+Developer"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&duration=3500&color=58A6FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Software+Engineer;Java+•+Spring+Boot+•+React;TypeScript+•+Node.js+•+Python;Building+Scalable+Applications;Always+Learning+New+Technologies" />
-
-<br/>
-
-<a href="https://github.com/NAvIN7856">
-<img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/navin7856">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=NAvIN7856&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
+<p>
+<a href="https://github.com/NAvIN7856"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/navin7856"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=NAvIN7856&style=for-the-badge&color=58A6FF"/>
+</p>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+# 🟦 VS Code Workspace
 
-```yaml
-Name: Navin Kumar Singh
-
-Role:
-  - Full Stack Developer
-  - Software Engineer
-
-Education:
-  SRM Institute of Science and Technology
-
-Currently Learning:
-  - System Design
-  - Cloud Computing
-  - Scalable Backend Architecture
-  - DevOps
-
-Interests:
-  - Web Development
-  - Artificial Intelligence
-  - Open Source
-  - UI/UX
-  - Software Architecture
-
-Languages:
-  - Java
-  - JavaScript
-  - TypeScript
-  - Python
-
-Status:
-  Always building.
+```text
+📦 Portfolio
+├── 📄 About.ts
+├── 📁 Skills
+│   ├── Frontend.tsx
+│   ├── Backend.java
+│   ├── Database.sql
+│   └── DevOps.yml
+├── 📁 Projects
+│   ├── Roomsy
+│   ├── MovieVerse
+│   └── GarbageDetectionAI
+├── 📊 Analytics
+└── 📬 Contact
 ```
 
----
+## 📄 About.ts
 
-# 📁 Tech Stack
+```ts
+const navin = {
+  role: "Full Stack Developer",
+  education: "SRM Institute of Science and Technology",
+  languages: ["Java","TypeScript","JavaScript","Python"],
+  currentlyLearning: [
+    "System Design",
+    "Cloud",
+    "Distributed Systems",
+    "DevOps"
+  ],
+  interests: [
+    "Web Development",
+    "Artificial Intelligence",
+    "Open Source"
+  ]
+}
+```
 
-## 💻 Languages
+<details open>
+<summary><b>📁 Tech Stack</b></summary>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python"/>
-</p>
+### Frontend
+<p><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,html,css,bootstrap"/></p>
 
----
+### Backend
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask,django"/></p>
 
-## 🎨 Frontend
+### Database
+<p><img src="https://skillicons.dev/icons?i=mongodb,redis"/></p>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,html,css"/>
-</p>
+### Languages
+<p><img src="https://skillicons.dev/icons?i=java,js,ts,python"/></p>
 
----
+### Tools
+<p><img src="https://skillicons.dev/icons?i=git,github,postman,figma,docker"/></p>
 
-## ⚙️ Backend
+</details>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,flask,django"/>
-</p>
+<details open>
+<summary><b>📁 Featured Projects</b></summary>
 
----
+### 🏠 Roomsy
+Modern real-time communication platform with chat, spatial audio, video calls, Socket.IO and Mediasoup.
 
-## 🗄 Database
+### 🎬 MovieVerse
+Movie community platform inspired by Letterboxd, Reddit and IMDb.
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,redis"/>
-</p>
+### 🌍 Garbage Detection AI
+YOLO + Flask + React + OpenCV + Interactive Maps.
 
----
-
-## 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma"/>
-</p>
-
----
-
-## 🚀 Currently Exploring
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,aws"/>
-</p>
-
----
-
-# ⭐ Featured Projects
-
-## 🏠 Roomsy
-
-> Modern real-time communication platform
-
-### Features
-
-- 💬 Real-time Chat
-- 🎥 Video Calls
-- 🔊 Spatial Audio
-- 🌍 Interactive Rooms
-- ⚡ Socket.IO
-- 📹 Mediasoup
-- 🎨 React + Tailwind
-
----
-
-## 🌍 Garbage Detection System
-
-AI-powered garbage detection using YOLO.
-
-### Tech
-
-- YOLO
-- Flask
-- OpenCV
-- React
-- MapTiler
-
----
-
-## 🎬 MovieVerse
-
-Movie social platform inspired by Letterboxd, Reddit and IMDb.
-
-### Features
-
-- Movie Reviews
-- Community Posts
-- Trending Movies
-- Responsive UI
-- Modern Design
-
----
+</details>
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
+<p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=NAvIN7856&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NAvIN7856&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
+<p align="center">
 <img src="https://streak-stats.demolab.com?user=NAvIN7856&theme=github-dark-blue&hide_border=true"/>
+</p>
 
-</div>
-
----
-
-# 📈 Activity Graph
-
-<div align="center">
-
-[![Navin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NAvIN7856&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)](https://github.com/NAvIN7856)
-
-</div>
-
----
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NAvIN7856&theme=github-compact&hide_border=true)](https://github.com/NAvIN7856)
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
+<p align="center">
 <img src="https://raw.githubusercontent.com/NAvIN7856/NAvIN7856/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
-</div>
+# 🎯 2026 Goals
 
----
+- Build production-ready SaaS products
+- Master System Design
+- Contribute to Open Source
+- Reach 500+ DSA problems
+- Learn AWS & Kubernetes
 
-# 📚 Learning Journey
+# 📬 Connect
 
-```text
-✔ Full Stack Development
+<p align="center">
+<a href="https://github.com/NAvIN7856"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/navin7856"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
-✔ Backend Engineering
+<div align="center">
 
-✔ System Design
+### Thanks for visiting 👋
 
-✔ Software Architecture
-
-✔ REST APIs
-
-✔ Modern Frontend
-
-✔ Cloud Computing
-
-✔ DevOps
-
-Loading next challenge...
+```ts
+while (true) {
+  learn();
+  build();
+  improve();
+}
 ```
-
----
-
-# 🎯 Goals for 2026
-
-- 🚀 Build impactful open-source projects
-- ☁ Learn AWS & Cloud Architecture
-- 📚 Master System Design
-- 💻 Solve 500+ DSA problems
-- 🤝 Contribute to open source
-- ⚡ Build scalable production-grade applications
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/NAvIN7856">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/navin7856">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### Thanks for visiting! 👋
-
-*"Code. Learn. Build. Repeat."*
-
-⭐ If you like my work, consider following me.
 
 </div>
