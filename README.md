@@ -82,7 +82,7 @@ const navin = {
 
 <td width="100%">
 
-<img src="https://streak-stats.demolab.com?user=NAvIN7856&theme=github-dark-blue&hide_border=true"/>
+<img width="100%" src="https://streak-stats.demolab.com?user=NAvIN7856&theme=github-dark-blue&hide_border=true"/>
 
 </td>
 
