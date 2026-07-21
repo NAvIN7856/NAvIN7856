@@ -80,13 +80,7 @@ const navin = {
 <table>
 <tr>
 
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NAvIN7856&show_icons=true&theme=github_dark_dimmed&hide_border=true&rank_icon=github"/>
-
-</td>
-
-<td width="50%">
+<td width="100%">
 
 <img src="https://streak-stats.demolab.com?user=NAvIN7856&theme=github-dark-blue&hide_border=true"/>
 
