@@ -39,8 +39,7 @@
 ```ts
 const navin = {
   role: "Full Stack Developer",
-  education: "SRM Institute of Science and Technology",
-  languages: ["Java","TypeScript","JavaScript","Python"],
+  languages: ["Java","JavaScript","TypeScript","Python"],
   currentlyLearning: [
     "System Design",
     "Cloud",
