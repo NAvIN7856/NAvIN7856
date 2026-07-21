@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # Hi 👋 I'm Navin Kumar Singh
@@ -262,4 +261,3 @@ Loading next challenge...
 ⭐ If you like my work, consider following me.
 
 </div>
-````
