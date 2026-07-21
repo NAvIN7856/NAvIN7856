@@ -1,4 +1,3 @@
-# (truncated example)
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,100:1F6FEB&text=Navin%20Kumar%20Singh&fontColor=FFFFFF&fontSize=42&animation=fadeIn"/>
@@ -31,10 +30,6 @@
 │   ├── Backend.java
 │   ├── Database.sql
 │   └── DevOps.yml
-├── 📁 Projects
-│   ├── Roomsy
-│   ├── MovieVerse
-│   └── GarbageDetectionAI
 ├── 📊 Analytics
 └── 📬 Contact
 ```
@@ -54,8 +49,7 @@ const navin = {
   ],
   interests: [
     "Web Development",
-    "Artificial Intelligence",
-    "Open Source"
+    "AI/ML",
   ]
 }
 ```
@@ -76,21 +70,7 @@ const navin = {
 <p><img src="https://skillicons.dev/icons?i=java,js,ts,python"/></p>
 
 ### Tools
-<p><img src="https://skillicons.dev/icons?i=git,github,postman,figma,docker"/></p>
-
-</details>
-
-<details open>
-<summary><b>📁 Featured Projects</b></summary>
-
-### 🏠 Roomsy
-Modern real-time communication platform with chat, spatial audio, video calls, Socket.IO and Mediasoup.
-
-### 🎬 MovieVerse
-Movie community platform inspired by Letterboxd, Reddit and IMDb.
-
-### 🌍 Garbage Detection AI
-YOLO + Flask + React + OpenCV + Interactive Maps.
+<p><img src="https://skillicons.dev/icons?i=git,github,postman,figma"/></p>
 
 </details>
 
