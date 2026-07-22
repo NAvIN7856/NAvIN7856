@@ -107,14 +107,6 @@ const navin = {
 <img src="https://raw.githubusercontent.com/NAvIN7856/NAvIN7856/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
-# 🎯 2026 Goals
-
-- Build production-ready SaaS products
-- Master System Design
-- Contribute to Open Source
-- Reach 500+ DSA problems
-- Learn AWS & Kubernetes
-
 # 📬 Connect
 
 <p align="center">
