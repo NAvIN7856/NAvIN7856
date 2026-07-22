@@ -26,7 +26,7 @@
 📦 Portfolio
 ├── 📄 About.ts
 ├── 📁 Skills
-│   ├── Frontend.tsx
+│   ├── Frontend.jsx
 │   ├── Backend.java
 │   ├── Database.sql
 │   └── DevOps.yml
@@ -39,7 +39,7 @@
 ```ts
 const navin = {
   role: "Full Stack Developer",
-  languages: ["Java","JavaScript","TypeScript","Python"],
+  languages: ["Java","JavaScript","Python"],
   currentlyLearning: [
     "System Design",
     "Cloud",
@@ -66,7 +66,7 @@ const navin = {
 <p><img src="https://skillicons.dev/icons?i=mongodb,redis"/></p>
 
 ### Languages
-<p><img src="https://skillicons.dev/icons?i=java,js,ts,python"/></p>
+<p><img src="https://skillicons.dev/icons?i=java,js,python"/></p>
 
 ### Tools
 <p><img src="https://skillicons.dev/icons?i=git,github,postman,figma"/></p>
