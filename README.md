@@ -5,7 +5,11 @@
 # 👋 Hi, I'm Navin Kumar Singh
 
 ### Full Stack Developer • Software Engineer
-
+<p>
+  <a href="https://navin7856.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Website-58A6FF?style=for-the-badge&logoColor=white" alt="My Portfolio"/>
+  </a>
+</p>
 <img src="./assets/spinning-raccoon.gif" width="120"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;Java+•+Spring+Boot+•+React;TypeScript+•+Node.js+•+Python;Open+Source+Developer"/>
